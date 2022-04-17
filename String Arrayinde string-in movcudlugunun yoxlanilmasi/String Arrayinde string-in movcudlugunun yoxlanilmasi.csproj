@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>String_Arrayinde_string_in_movcudlugunun_yoxlanilmasi</RootNamespace>
+  </PropertyGroup>
+
+</Project>
